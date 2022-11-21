@@ -1,0 +1,6 @@
+{
+  "replaceAttrValues": {
+    "#C1C3C6": "{props.stroke}",
+    "#9763FF": "{props.stroke}"
+  }
+}
